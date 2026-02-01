@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Abdelrahman 👋
 
-<!--
-**bedoo7/bedoo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Front-end Engineer** passionate about creating interactive, responsive, and user-friendly web applications.  
+I specialize in **React**, **TypeScript**, and **MUI (Material-UI)**, focusing on writing clean, maintainable, and scalable code.
 
-Here are some ideas to get you started:
+## 🌱 Skills & Technologies
+- **Frontend:** React, TypeScript, JavaScript, MUI  
+- **State Management:** Redux, Context API  
+- **Tools & Practices:** Git, GitHub, Responsive Design, Clean Code, Component-based Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 What I Love
+Turning complex problems into smooth user experiences, optimizing performance, and creating reusable components.  
+
+## ⚡ Fun Fact
+I enjoy exploring new front-end technologies, improving my skills, and building projects that make a real impact 🚀
